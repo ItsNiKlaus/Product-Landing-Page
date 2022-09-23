@@ -331,6 +331,8 @@ body::-webkit-scrollbar-track {
     #head input[type='email'] {
         max-width: 250px;
         width: 100%;
+        border: 1px solid #DDAF94;
+        border-radius: 4px;
     }
 
     #head input[type='submit'] {
@@ -422,6 +424,8 @@ body::-webkit-scrollbar-track {
     #head input[type='email'] {
         max-width: 230px;
         width: 90%;
+        border: 1px solid #DDAF94;
+        border-radius: 4px;
     }
 
     #head input[type='submit'] {
