@@ -108,7 +108,9 @@ body::-webkit-scrollbar-track {
     height: 35px;
     width: 100%;
     padding: 10px;
-    margin-top: 20px;
+    margin-top: 16px;
+    border: 1px solid #DDAF94;
+    border-radius: 4px;
 }
 
 #head input[type='submit'] {
