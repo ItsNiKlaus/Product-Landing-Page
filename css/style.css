@@ -302,7 +302,9 @@ body::-webkit-scrollbar-track {
     #container {
         max-width: 600px;
     }
-
+    #sec {
+        margin-left: 20px;
+    }    
     #navbar h1 {
         font-size: 1.3rem;
     }
