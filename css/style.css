@@ -81,7 +81,7 @@ img {
 
 /* Custom Scrollbar */
 
-body::-webkit-scrollbar {
+/*body::-webkit-scrollbar {
     width: 20px;
 }
 
@@ -91,7 +91,7 @@ body::-webkit-scrollbar-thumb {
 
 body::-webkit-scrollbar-track {
     border: 2px solid #fff;
-}
+} */
 
 /* Header */
 
